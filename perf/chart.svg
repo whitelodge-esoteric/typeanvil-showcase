@@ -1,3 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" font-family="sans-serif" font-size="10">
 <text x="30" y="14">Total showcase pages per release</text>
+<rect x="30" y="40" width="28" height="150" fill="#3b6ea5"/>
+<text x="30" y="37">802</text>
+<text x="30" y="202">v2026.10.1</text>
 </svg>

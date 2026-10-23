@@ -11,6 +11,7 @@ Every release tag publishes its showcase documents here, rendered by the release
 
 ## Versions
 
+- [v2026.10.1](versions/v2026.10.1/README.md)
 
 The newest 5 versions keep full-size pages. Older versions keep thumbnails only.
 
