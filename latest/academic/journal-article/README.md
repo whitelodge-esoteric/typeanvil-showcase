@@ -1,6 +1,6 @@
 # Journal Article — LLaMA (arXiv 2302.13971)
 
-TypeAnvil `v2026.10.1`, beside the Prince reference render (unscored).
+TypeAnvil `v2026.10.2`, beside the Prince reference render (unscored).
 
 Showing 10 of 14 pages: [full PDF (TypeAnvil)](full-typeanvil.pdf) / [full PDF (Prince)](full-prince.pdf).
 

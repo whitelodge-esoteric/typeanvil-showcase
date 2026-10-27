@@ -1,0 +1,65 @@
+{
+  "commit": "f93b5e9402175401c07dac193c5601f932d9ab97",
+  "docs": {
+    "academic/dissertation": {
+      "pages": 166,
+      "published_pages": 10
+    },
+    "academic/journal-article": {
+      "pages": 14,
+      "published_pages": 10
+    },
+    "academic/math": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "book/pride-and-prejudice": {
+      "pages": 389,
+      "published_pages": 10
+    },
+    "financial/weasyprint-invoice": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "flyers/product-flyer": {
+      "pages": 2,
+      "published_pages": 2
+    },
+    "letters/weasyprint-letter": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "manual/field-manual": {
+      "pages": 213,
+      "published_pages": 10
+    },
+    "posters/event-poster": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "posters/poster": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "posters/weasyprint-poster": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "reports/weasyprint-report": {
+      "pages": 10,
+      "published_pages": 10
+    },
+    "tickets/concert-ticket": {
+      "pages": 1,
+      "published_pages": 1
+    },
+    "tickets/weasyprint-ticket": {
+      "pages": 1,
+      "published_pages": 1
+    }
+  },
+  "dpi": 150,
+  "render_seconds": 410.0,
+  "tag": "v2026.10.2",
+  "total_pages": 802
+}

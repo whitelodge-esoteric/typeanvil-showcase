@@ -1,6 +1,6 @@
 # Event Poster
 
-TypeAnvil `v2026.10.1`, beside the Prince reference render (unscored).
+TypeAnvil `v2026.10.2`, beside the Prince reference render (unscored).
 
 | Page | TypeAnvil | Prince |
 |---|---|---|

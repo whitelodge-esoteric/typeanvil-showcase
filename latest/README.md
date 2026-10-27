@@ -1,6 +1,6 @@
-# TypeAnvil v2026.10.1
+# TypeAnvil v2026.10.2
 
-Rendered showcase documents for [v2026.10.1](https://github.com/whitelodge-esoteric/typeanvil/releases/tag/v2026.10.1).
+Rendered showcase documents for [v2026.10.2](https://github.com/whitelodge-esoteric/typeanvil/releases/tag/v2026.10.2).
 
 | Document | Pages |
 |---|---|
